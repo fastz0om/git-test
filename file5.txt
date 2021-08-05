@@ -1,0 +1,8 @@
+First file
+<<<<<<< HEAD
+Version4.0
+=======
+Version4
+Ver4.x
+Ver5.0
+>>>>>>> ac2487c4bf85dedf2e192780ba8f63cd3f0f725f
